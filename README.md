@@ -7,6 +7,8 @@
 
 # Continuous Integration
 
+![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=my-workflow)
+
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
 <!--
